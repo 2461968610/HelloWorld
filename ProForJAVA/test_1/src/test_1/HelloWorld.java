@@ -13,7 +13,7 @@ public class HelloWorld {
 		//Animal a=new Dog();
 		a.eat();
 		age=p.setAge(29);
-		System.out.println(age);
+		System.out.println(age+"hah");
 	}
 
 }
