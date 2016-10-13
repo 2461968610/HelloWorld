@@ -12,7 +12,7 @@ public class HelloWorld {
 		a.run();
 		//Animal a=new Dog();
 		a.eat();
-		age=p.setAge(27);
+		age=p.setAge(29);
 		System.out.println(age);
 	}
 
